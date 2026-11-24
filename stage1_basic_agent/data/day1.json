@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "from": "alice@acme.com",
+    "subject": "Hello from Acme",
+    "body": "Hi! I'm Alice, the new PM on the Q4 contract (our reference number is Q4-4471). Three things so we work well together: I go by Ali, not Alice. I'm out of office every Thursday, so never book me then. And I read email on my phone, so please keep replies to one or two sentences.",
+    "read": false
+  }
+]

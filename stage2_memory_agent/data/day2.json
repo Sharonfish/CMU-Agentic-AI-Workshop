@@ -1,0 +1,9 @@
+[
+  {
+    "id": 2,
+    "from": "alice@acme.com",
+    "subject": "Meeting next week?",
+    "body": "Two quick things. What was our contract reference number again? I lost it. And can we meet next week to review it? Afternoons are best for me.",
+    "read": false
+  }
+]

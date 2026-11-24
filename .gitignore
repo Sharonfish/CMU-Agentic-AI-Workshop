@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+outbox.json
+memory.json
+planner.json
+.env
